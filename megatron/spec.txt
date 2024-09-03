@@ -1,0 +1,33 @@
+﻿Client to server:
+# ==================================
+IDENT illegitimate-egg IRTP/1.0
+
+
+# ==================================
+SEND general IRTP/1.0
+Content-Length: 26
+
+message=Joe biden fortnite skibidi
+
+# ==================================
+IMAGE general IRTP/1.0
+Content-Size: 695
+File-Type: png
+
+����
+
+�����
+¡�����‰PNG
+
+���
+IHDR��� ��� ���szzô��hIDATxœí–ÝK“QÇwÙUô„ij¢–±ÔÐijb™E¨” E/RJøBÒÕEa8	#Í°B)K¢¥ÛjjhfaÎjF:M¥bunX8b~:çß*ìÂ=Aµ|yàÙÅçó=gçáhôzý´jÅjµb4Ñh42?v•5£º€ÃáXùïþ%oÁ
+ÔÈ¢jž€ÁÁA%‹
+ÈÕÌo·  þI³ÅHç€‰Ž!OÇ,´ö´ü	~6ÖÁß^ÑN/-˜¸B#§)·esŠtj&K½ŸLØèyŒ3ÝÜâ>UÔq”sdqì›ŽÒÉÄª˜Gšàsì£Uiÿˆzš8K%ùTø’)õ$RìJðyäW6‹»¾¨½k±pMYú™9>"›Sô!C#90¤½áW;õÔP¨,uÜä¤P(Ÿ(û’¤ÀÚµì}¹‚¾õžYÜx|¾Ê	RåŸŒ3leþx½^&&&p¹\Ìî®òÚ£çN„?n>çÍ¥”}MRš–M&áóù˜ššÂív+`§Ó‰Ýn'÷a»‘ì¼¹àH²Ô,_¹Œâ›(zŸÀáñx
+qÊrŽŽ2<<L^G´Þ~;‚má2¶_~–2…Ž¸ñýoµì{-öøE,ù=ë”û`¿Î¼FF]([jCÉl+ñ»€€ë
+úbÙÓC®e®±Khê¥6ëWË§M¬ð»€ÑZ—cŽ{¼–¬¦p2ê×VBJU0É•Á¤\îN¿¢|frLQAÙÍÕ¢å¸€ÉÖ	%ijÃÿÊùï”zBu_W}����IEND®B`
+
+
+# ==================================
+DISCONNECT User\ Disconnected IRTP/1.0
+
+Server to Client:
